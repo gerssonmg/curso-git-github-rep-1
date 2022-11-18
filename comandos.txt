@@ -1,0 +1,10 @@
+git clone https://github.com/gerssonmg/curso-git-github-rep-1.git
+git clone https://github.com/dell/csm-docs.git
+
+
+
+git pull
+
+
+
+git commit
